@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as n,V as a}from"./chunks/framework.0e456aa4.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"龙芯平台/index.md","filePath":"龙芯平台/index.md"}'),r={name:"龙芯平台/index.md"},d=a("",1),s=[d];function l(c,_,i,o,h,x){return e(),n("div",null,s)}const y=t(r,[["render",l]]);export{m as __pageData,y as default};
